@@ -1,16 +1,13 @@
 ## Hi there 👋
-
-<!--
-**2501-sketch/2501-sketch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##髪の毛の長さ・・・
+##目の位置・・・
+##目の形・・・
+##顔の中で好きな部位はどこ・・・
+##口の形・・・
+##口のミニトマト許容量・・・
+##プリンの長さ・・・
+##親指の長さ・・・
+##左手薬指の太さ・・・
+##足の大きさ・・・
+##足5本指の長さの比率・・・
+##等身・・・
